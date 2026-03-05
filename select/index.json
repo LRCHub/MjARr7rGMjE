@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "にっこり^^調査隊のテーマ",
+  "base_artist": "Wonderful★opportunity!",
+  "createdAt": "2026-03-05T13:53:31.589611Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "にっこり^^調査隊のテーマ (feat. 鏡音リン&鏡音レン)",
+      "artist": "Wonderful★opportunity!",
+      "has_synced": true,
+      "path": "select/01_にっこり^^調査隊のテーマ_(feat._鏡音リン&鏡音レン)_Wonderful★opportunity!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "にっこり^^調査隊のテーマ",
+      "artist": "WONDERFUL★OPPORTUNITY! feat. 鏡音リン & 鏡音レン",
+      "has_synced": true,
+      "path": "select/02_にっこり^^調査隊のテーマ_WONDERFUL★OPPORTUNITY!_feat._鏡音リン_&_鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "にっこり^^調査隊のテーマ",
+      "artist": "Wonderful★opportunity!, 鏡音リン, 鏡音レン",
+      "has_synced": true,
+      "path": "select/03_にっこり^^調査隊のテーマ_Wonderful★opportunity!,_鏡音リン,_鏡音レン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "にっこり^^調査隊のテーマ(off vocal)",
+      "artist": "Wonderful★opportunity!",
+      "has_synced": false,
+      "path": "select/pl_01_にっこり^^調査隊のテーマ(off_vocal)_Wonderful★opportunity!.txt"
+    }
+  ]
+}
